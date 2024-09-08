@@ -61,3 +61,86 @@
 // maxNum(45454512, 345454, 465)
 
 // Easest way to find the max number using 
+
+
+// let a = 5;
+// let b = "7dasdf";
+
+// console.log(a, b)
+
+// const temp = a;
+
+// a = b;
+// b = temp;
+
+// console.log(a, b)
+
+
+// let x = 23;
+// let y = 33;
+// console.log(x, y)
+// const tempX = x;
+
+// x = y;
+// y = tempX;
+
+// console.log(x, y)
+
+
+// Sum of all elements of array
+
+// const arr = [1, 2, 3, 4]
+
+// let sum = 0;
+
+// for(num of arr){
+//     sum += num;
+// }
+
+// console.log(sum)
+
+
+// Find the largest number of an array;
+
+// let numbers = [22342343, 34,21, 56,23,675,233,21,45]
+
+// let max = numbers[0]
+
+// for(num of numbers){
+//     if(num > max){
+//         max = num
+//     }
+// }
+// console.log(max)
+
+
+// Find the largest element of an array;
+
+// const names = ["susahndfgsdfggta", "rohim khan", "abdul koriam raj raihan"]
+
+// let bigName = names[0]
+
+// for(name of names){
+//     if(name.length > bigName.length){
+//         bigName = name;
+//     }
+// }
+
+// console.log(bigName)
+
+// Find the big word of a sentence;
+
+// let sen = "I am a web developer"
+
+// let senArr = sen.split(" ");
+
+// let maxWord = senArr[0]
+// for(word of senArr){
+//     if(word.length > maxWord.length){
+//         maxWord = word;
+//     }
+// }
+
+// console.log("Big Word of the sentence is :", maxWord)
+
+console.log(typeof [] === typeof [])
