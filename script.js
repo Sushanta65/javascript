@@ -143,4 +143,6 @@
 
 // console.log("Big Word of the sentence is :", maxWord)
 
-console.log(typeof [] === typeof [])
+// console.log(typeof [] === typeof [])
+
+// console.log({} === {}) // False
